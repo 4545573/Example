@@ -1,0 +1,17 @@
+{
+  "name": "com.unity.example.test",
+  "version": "1.0.0",
+  "displayName": "Package Example",
+  "description": "This is an example package",
+  "unity": "2019.1",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
